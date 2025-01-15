@@ -34,7 +34,7 @@ Data for this project can be downloaded from [Zenodo](https://doi.org/10.5281/ze
 ### Data Citation
 If you use this data, please cite it using the following BibTeX entry:
 ```bibtex
-@dataset{matthew_2025_14654525,
+@dataset{dataset_mnakamura,
 	author = {Matthew, Nakamura and Rocheville, Ethan and Peterson, Kirsten and Heyes, Corissa and Brown, Joseph},
 	doi = {10.5281/zenodo.14654525},
 	month = jan,

@@ -1,19 +1,16 @@
-Cantilever_Misalignment_Interaction
+# Cantilever_Misalignment_Interaction
+### Code DOI: [![Zenodo-Code-DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxxxx)
+### Data DOI: [![Zenodo-Data-DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxxxx)
 
-Code DOI: 
+## Overview
+**Cantilever_Misalignment_Interaction** is a research project developed to investigate and model the interaction effects of cantilever misalignment in experimental setups. This repository contains the necessary code and resources for simulating, analyzing, and visualizing misalignment interactions using experimental data and computational models.
 
-Data DOI: 
-
-Overview
-
-Cantilever_Misalignment_Interaction is a research project developed to investigate and model the interaction effects of cantilever misalignment in experimental setups. This repository contains the necessary code and resources for simulating, analyzing, and visualizing misalignment interactions using experimental data and computational models.
-
-Directory Structure
+## Directory Structure
 
 Cantilever_Misalignment_Interaction/
 ├── README.md
 ├── cantilever_misalignment_interaction
-│   ├── __init__.py
+│   ├── init.py
 │   ├── exp_and_mod.py
 │   └── gen_curves_fit.py
 ├── data
@@ -22,21 +19,19 @@ Cantilever_Misalignment_Interaction/
 ├── pyproject.toml
 ├── ref
 └── tests
-    └── __init__.py
+└── init.py
 
-Features
-	•	Experimental and Model Analysis: Compare experimental results with theoretical models of cantilever misalignment interaction.
-	•	Curve Fitting: Generate and fit curves to describe observed interaction patterns.
-	•	Data Visualization: Create plots to visualize experimental and model data for deeper insights.
+## Features
+- **Experimental and Model Analysis**: Compare experimental results with theoretical models of cantilever misalignment interaction.
+- **Curve Fitting**: Generate and fit curves to describe observed interaction patterns.
+- **Data Visualization**: Create plots to visualize experimental and model data for deeper insights.
 
-Collect Data
+## Collect Data
+Data for this project can be downloaded from [Zenodo](https://zenodo.org/records/xxxxxxxx). Extract the data files into the `data` directory.
 
-Data for this project can be downloaded from Zenodo. Extract the data files into the data directory.
-
-Data Citation
-
+### Data Citation
 If you use this data, please cite it using the following BibTeX entry:
-
+```bibtex
 @dataset{your_name_2025_xxxxxxxx,
   author       = {Your Name and Collaborators},
   title        = {Cantilever Misalignment Interaction Dataset},
@@ -96,4 +91,4 @@ License
 
 This project is licensed under the GPL-3.0-or-later License. See the LICENSE file for details.
 
-Replace the placeholders (xxxxxxxx, your_name, yourusername) with the actual information relevant to your project. Add figures and descriptions for the results as they become available.
+Replace `xxxxxxxx`, `your_name`, and `yourusername` with your actual information.

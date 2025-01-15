@@ -1,6 +1,6 @@
 # Cantilever_Misalignment_Interaction
 ### Code DOI: [![Zenodo-Code-DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxxxx)
-### Data DOI: [![Zenodo-Data-DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxxxx)
+### Data DOI: [![Zenodo-Data-DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14654524.svg)](https://doi.org/10.5281/zenodo.14654524)
 
 ## Overview
 **Cantilever_Misalignment_Interaction** is a research project developed to investigate and model the interaction effects of cantilever misalignment in experimental setups. This repository contains the necessary code and resources for simulating, analyzing, and visualizing misalignment interactions using experimental data and computational models.
@@ -29,20 +29,20 @@ Cantilever_Misalignment_Interaction/
 - **Data Visualization**: Create plots to visualize experimental and model data for deeper insights.
 
 ## Collect Data
-Data for this project can be downloaded from [Zenodo](https://zenodo.org/records/xxxxxxxx). Extract the data files into the `data` directory.
+Data for this project can be downloaded from [Zenodo](https://doi.org/10.5281/zenodo.14654524). Extract the data files into the `data` directory.
 
 ### Data Citation
 If you use this data, please cite it using the following BibTeX entry:
 ```bibtex
-@dataset{your_name_2025_xxxxxxxx,
-  author       = {Your Name and Collaborators},
-  title        = {Cantilever Misalignment Interaction Dataset},
-  month        = jan,
-  year         = 2025,
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.xxxxxxxx},
-  url          = {https://doi.org/10.5281/zenodo.xxxxxxxx}
-}
+@dataset{matthew_2025_14654525,
+	author = {Matthew, Nakamura and Rocheville, Ethan and Peterson, Kirsten and Heyes, Corissa and Brown, Joseph},
+	doi = {10.5281/zenodo.14654525},
+	month = jan,
+	publisher = {Zenodo},
+	title = {Cantilever Misalignment Interaction Dataset},
+	url = {https://doi.org/10.5281/zenodo.14654525},
+	year = 2025,
+	bdsk-url-1 = {https://doi.org/10.5281/zenodo.14654525}}
 ```
 
 ## Installation

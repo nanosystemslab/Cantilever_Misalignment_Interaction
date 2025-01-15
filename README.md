@@ -1,6 +1,6 @@
 # Cantilever_Misalignment_Interaction
 ### Code DOI: [![Zenodo-Code-DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxxxx)
-### Data DOI: [![Zenodo-Data-DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14654524.svg)](https://doi.org/10.5281/zenodo.14654524)
+### Data DOI: [![Zenodo-Data-DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14654525.svg)](https://doi.org/10.5281/zenodo.14654525)
 
 ## Overview
 **Cantilever_Misalignment_Interaction** is a research project developed to investigate and model the interaction effects of cantilever misalignment in experimental setups. This repository contains the necessary code and resources for simulating, analyzing, and visualizing misalignment interactions using experimental data and computational models.

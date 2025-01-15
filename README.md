@@ -7,6 +7,7 @@
 
 ## Directory Structure
 
+```
 Cantilever_Misalignment_Interaction/
 ├── README.md
 ├── cantilever_misalignment_interaction
@@ -20,6 +21,7 @@ Cantilever_Misalignment_Interaction/
 ├── ref
 └── tests
 └── init.py
+```
 
 ## Features
 - **Experimental and Model Analysis**: Compare experimental results with theoretical models of cantilever misalignment interaction.
@@ -41,41 +43,54 @@ If you use this data, please cite it using the following BibTeX entry:
   doi          = {10.5281/zenodo.xxxxxxxx},
   url          = {https://doi.org/10.5281/zenodo.xxxxxxxx}
 }
+```
 
-Installation
-
-Clone Repository
+## Installation
+### Clone Repository
 
 To clone the repository:
 
+```sh
 git clone https://github.com/yourusername/Cantilever_Misalignment_Interaction.git
 cd Cantilever_Misalignment_Interaction
+```
 
-Using Poetry
+### Using pip
+install dependencies using pip:
+```sh
+pip install .
+```
+
+### Using Poetry
 
 Install dependencies using Poetry:
 
+```sh
 poetry install
+```
 
-Usage
+## Usage
 	1.	Prepare Input Data: Place your input data files in the data directory.
 	2.	Run Scripts: Execute the scripts in the cantilever_misalignment_interaction directory to analyze and generate results.
 
+```sh
 python cantilever_misalignment_interaction/exp_and_mod.py
 python cantilever_misalignment_interaction/gen_curves_fit.py
+```
 
 	3.	View Results: Access output plots and data files in the out directory.
 
-Results
+## Results
 
 Figure 1. Experimental vs Model Interaction Curves
 
 TODO: Add a description of the key results and link the relevant output files.
 
-Code Citation
+### Code Citation
 
 If you use this code, please cite it using the following BibTeX entry:
 
+```bibtex
 @software{your_name_2025_xxxxxxxx,
   author       = {Your Name},
   title        = {Cantilever Misalignment Interaction},
@@ -86,8 +101,9 @@ If you use this code, please cite it using the following BibTeX entry:
   doi          = {10.5281/zenodo.xxxxxxxx},
   url          = {https://doi.org/10.5281/zenodo.xxxxxxxx}
 }
+```
 
-License
+## License
 
 This project is licensed under the GPL-3.0-or-later License. See the LICENSE file for details.
 

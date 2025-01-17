@@ -1,5 +1,5 @@
 # Cantilever_Misalignment_Interaction
-### Code DOI: [![Zenodo-Code-DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxxxx)
+### Code DOI: [![Zenodo-Code-DOI](https://zenodo.org/badge/912981011.svg)](https://doi.org/10.5281/zenodo.14679787)
 ### Data DOI: [![Zenodo-Data-DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14654525.svg)](https://doi.org/10.5281/zenodo.14654525)
 
 ## Overview
@@ -91,16 +91,17 @@ TODO: Add a description of the key results and link the relevant output files.
 If you use this code, please cite it using the following BibTeX entry:
 
 ```bibtex
-@software{your_name_2025_xxxxxxxx,
-  author       = {Your Name},
-  title        = {Cantilever Misalignment Interaction},
-  month        = jan,
-  year         = 2025,
-  publisher    = {Zenodo},
-  version      = {v1.0.0},
-  doi          = {10.5281/zenodo.xxxxxxxx},
-  url          = {https://doi.org/10.5281/zenodo.xxxxxxxx}
-}
+@software{matthew_nakamura_2025_14679788,
+	author = {Matthew Nakamura},
+	doi = {10.5281/zenodo.14679788},
+	month = jan,
+	publisher = {Zenodo},
+	swhid = {swh:1:dir:6559c6f0993854ca6dfab7e3d1df0454470124d3 ;origin=https://doi.org/10.5281/zenodo.14679787;vi sit=swh:1:snp:68a001382c552106c3888bafd1e2158940ce 20f8;anchor=swh:1:rel:26ec33751b594173cfa751b45259 6e5523580d7e;path=nanosystemslab- Cantilever\_Misalignment\_Interaction-11ec5e2},
+	title = {nanosystemslab/Cantilever\_Misalignment\_Interaction : Initial Release of Cantilever Misalignment Interaction Data Processing (v1.0.0)},
+	url = {https://doi.org/10.5281/zenodo.14679788},
+	version = {v1.0.0},
+	year = 2025,
+	bdsk-url-1 = {https://doi.org/10.5281/zenodo.14679788}}
 ```
 
 ## License
